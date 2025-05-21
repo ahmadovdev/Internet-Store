@@ -28,7 +28,7 @@ const SignUpPage = () => {
         transition={{ duration: 0.8 }}
       >
         <h2 className="mt-6 text-center text-3xl font-bold text-purple-700">
-          Create your account
+          Hisobingizni yarating
         </h2>
       </motion.div>
 

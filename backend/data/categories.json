@@ -1,0 +1,52 @@
+[
+  {
+    "_id": { "$oid": "664c11438a2e1d7d0a2f4a11" },
+    "name": "Elektronika",
+    "slug": "elektronika"
+  },
+  {
+    "_id": { "$oid": "664c11438a2e1d7d0a2f4a12" },
+    "name": "Poyabzallar",
+    "slug": "poyabzallar"
+  },
+  {
+    "_id": { "$oid": "664c11438a2e1d7d0a2f4a13" },
+    "name": "Kiyimlar",
+    "slug": "kiyimlar"
+  },
+  {
+    "_id": { "$oid": "664c11438a2e1d7d0a2f4a14" },
+    "name": "Uy Uchun",
+    "slug": "uy-uchun"
+  },
+  {
+    "_id": { "$oid": "664c11438a2e1d7d0a2f4a15" },
+    "name": "Aksesuar",
+    "slug": "aksesuar"
+  },
+  {
+    "_id": { "$oid": "664c11438a2e1d7d0a2f4a16" },
+    "name": "Kitoblar",
+    "slug": "kitoblar"
+  },
+  {
+    "_id": { "$oid": "664c11438a2e1d7d0a2f4a17" },
+    "name": "Sport va Dam Olish",
+    "slug": "sport-va-dam-olish"
+  },
+  {
+    "_id": { "$oid": "664c11438a2e1d7d0a2f4a18" },
+    "name": "Bolalar Buyumlari",
+    "slug": "bolalar-buyumlari"
+  },
+  {
+    "_id": { "$oid": "664c11438a2e1d7d0a2f4a19" },
+    "name": "Go'zallik va Parvarish",
+    "slug": "gozallik-va-parvarish"
+  },
+  {
+    "_id": { "$oid": "664c11438a2e1d7d0a2f4a1a" },
+    "name": "Asbob-uskunalar",
+    "slug": "asbob-uskunalar"
+  }
+]

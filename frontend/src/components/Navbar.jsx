@@ -31,7 +31,7 @@ const Navbar = () => {
               <path d="M10 10V6C10 5 12 5 12 6V10" stroke="currentColor" strokeWidth="3" strokeLinecap="round" />
               <path d="M20 10V6C20 5 18 5 18 6V10" stroke="currentColor" strokeWidth="3" strokeLinecap="round" />
               <text x="35" y="25" fontFamily="Arial, sans-serif" fontSize="32" fontWeight="bold" fill="currentColor" alignmentBaseline="middle">
-                Ecommerce
+                Online Store
               </text>
             </svg>
           </Link>

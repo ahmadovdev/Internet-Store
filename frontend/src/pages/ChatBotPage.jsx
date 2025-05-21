@@ -1,4 +1,3 @@
-// src/pages/ChatBotPage.jsx
 import { useState, useEffect, useRef } from "react";
 import { Loader2, SendHorizontal } from "lucide-react";
 import useChatStore from "../stores/useChatStore.js";
@@ -11,7 +10,11 @@ const ChatBotPage = () => {
 
   useEffect(() => {
     if (messages.length === 0) {
-      addMessage({ type: 'text', text: 'Assalomu alaykum! Qanday yordam bera olaman?', sender: 'ai' });
+      addMessage({
+        type: "text",
+        text: "Assalomu alaykum! Qanday yordam bera olaman?",
+        sender: "ai",
+      });
     }
   }, [addMessage, messages.length]);
 
@@ -28,11 +31,15 @@ const ChatBotPage = () => {
 
   const renderMessageContent = (msg) => {
     if (msg.type === "loading") {
-      return <Loader2 className="w-4 h-4 animate-spin text-blue-600" />;
+      return <Loader2 className="w-4 h-4 animate-spin text-white" />;
     } else if (msg.type === "text") {
       return msg.text;
     } else if (msg.type === "product_recommendation" && msg.product) {
-      return <ProductCard product={msg.product} />;
+      return (
+        <div className="w-full max-w-xs md:max-w-sm lg:max-w-md flex justify-center">
+          <ProductCard product={msg.product} />
+        </div>
+      );
     }
     return null;
   };
@@ -43,20 +50,24 @@ const ChatBotPage = () => {
         {messages.map((msg) => (
           <div
             key={msg.id}
-            className={`flex ${msg.sender === "user" ? "justify-end" : "justify-start"}`}
+            className={`flex ${
+              msg.sender === "user" ? "justify-end" : "justify-start"
+            }`}
           >
-            {msg.type === "product_recommendation" ? (
-              renderMessageContent(msg)
+            {msg.type === "product_recommendation" && msg.product ? (
+              <div className="bg-white rounded-xl p-2 shadow w-full max-w-xs">
+                <ProductCard product={msg.product} />
+              </div>
             ) : (
               <div
-                className={`max-w-[80%] px-3 py-2 rounded-xl shadow-sm whitespace-pre-wrap text-sm break-words
-                 ${msg.sender === "user"
-                    ? "bg-blue-500 text-white rounded-br-none"
+                className={`max-w-[80%] bg-blue-500 px-3 py-2 rounded-xl shadow-sm whitespace-pre-wrap text-sm break-words${
+                  msg.sender === "user"
+                    ? "bg-blue-600 text-white rounded-br-none"
                     : msg.type === "loading"
-                    ? "bg-gray-300 text-gray-800 rounded-bl-none italic"
+                    ? "bg-blue-600 text-white rounded-bl-none italic"
                     : msg.isError
                     ? "bg-red-300 text-red-800 rounded-bl-none"
-                    : "bg-white text-gray-800 rounded-bl-none shadow"
+                    : "bg-blue-100 text-white rounded-bl-none shadow"
                 }`}
               >
                 {renderMessageContent(msg)}
@@ -64,6 +75,7 @@ const ChatBotPage = () => {
             )}
           </div>
         ))}
+
         <div ref={messagesEndRef} />
       </main>
 
