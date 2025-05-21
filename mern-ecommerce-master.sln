@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netBackend", "netBackend\netBackend.csproj", "{08683792-DF0E-63A8-884D-80CFE87886DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08683792-DF0E-63A8-884D-80CFE87886DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08683792-DF0E-63A8-884D-80CFE87886DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08683792-DF0E-63A8-884D-80CFE87886DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08683792-DF0E-63A8-884D-80CFE87886DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {558AAD11-F1FC-4A5E-B9A3-FD62086D973A}
+	EndGlobalSection
+EndGlobal

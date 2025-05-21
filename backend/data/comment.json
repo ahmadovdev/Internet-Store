@@ -1,0 +1,1395 @@
+[
+  {
+    "_id": "66465411e3d7f1c0a2b9c045",
+    "product": "66465294c5a9d0f3b4e71a04",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Len shim yozga juda mos keldi, yengil va havodor.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c046",
+    "product": "66465294c5a9d0f3b4e71a04",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "Tez ajin tushar ekan.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c047",
+    "product": "66465294c5a9d0f3b4e71a14",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Budget smartfon uchun funksiyalari yaxshi, batareyasi uzoqqa yetadi.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c048",
+    "product": "66465294c5a9d0f3b4e71a14",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Kamerasi unchalik yaxshi emas.",
+    "rating": 3
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c04a",
+    "product": "66465294c5a9d0f3b4e71a17",
+    "user": "68218c198a04374f515ceb03",
+    "text": "Narxi arzon ekan.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c04b",
+    "product": "66465294c5a9d0f3b4e71a1a",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Etik juda chiroyli, oyog'imga qulay o'tirdi.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c04c",
+    "product": "66465294c5a9d0f3b4e71a1a",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "Charm asliy emasga o'xshaydi.",
+    "rating": 3
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c04d",
+    "product": "66465294c5a9d0f3b4e71a27",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Stol chirog'i yorug'ligi yaxshi, ishlashga qulay.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c04e",
+    "product": "66465294c5a9d0f3b4e71a27",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Sozlamalari biroz murakkab ekan.",
+    "rating": 4
+  },
+    {
+    "_id": "66465411e3d7f1c0a2b9c04f",
+    "product": "66465294c5a9d0f3b4e71a05",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Ortopedik poyabzal bolamning oyog'iga juda mos keldi.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c050",
+    "product": "66465294c5a9d0f3b4e71a05",
+    "user": "68218c198a04374f515ceb03",
+    "text": "Narxi biroz baland.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c051",
+    "product": "66465294c5a9d0f3b4e71a0a",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Sviter juda issiq va yumshoq. Qish uchun ajoyib.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c052",
+    "product": "66465294c5a9d0f3b4e71a0a",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "Rangi rasmga to'g'ri kelmadi.",
+    "rating": 3
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c053",
+    "product": "66465294c5a9d0f3b4e71a0d",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Krossovkalar qulay, kun bo'yi kiysam ham charchamadim.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c054",
+    "product": "66465294c5a9d0f3b4e71a0d",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Poyabzal ipi tez yechilib ketyapti.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c055",
+    "product": "66465294c5a9d0f3b4e71a0e",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Ko'zoynaklar zamonaviy ko'rinadi, yuzimga mos tushdi.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c056",
+    "product": "66465294c5a9d0f3b4e71a0e",
+    "user": "68218c198a04374f515ceb03",
+    "text": "Yaxshi himoya qilyapti.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c057",
+    "product": "66465294c5a9d0f3b4e71a16",
+    "user": "6811eea61e907901f2d09863",
+    "text": "UltraWide monitor ishlash uchun juda qulay ekan.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c058",
+    "product": "66465294c5a9d0f3b4e71a16",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "Narxi qimmat.",
+    "rating": 4
+  },
+    {
+    "_id": "66465411e3d7f1c0a2b9c059",
+    "product": "66465294c5a9d0f3b4e71a1b",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Smart soat bolajonimga juda yoqdi, doim qayerdaligini bilib turaman.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c05a",
+    "product": "66465294c5a9d0f3b4e71a1b",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Batareyasi tez tugab qolyapti.",
+    "rating": 3
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c05b",
+    "product": "66465294c5a9d0f3b4e71a1e",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Dazmol tez qiziyapti, ishlash tezlashdi.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c05c",
+    "product": "66465294c5a9d0f3b4e71a1e",
+    "user": "68218c198a04374f515ceb03",
+    "text": "Bug'i biroz kam.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c05d",
+    "product": "66465294c5a9d0f3b4e71a25",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Belt bag kiyimimga juda mos tushdi, moda aksessuar.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c05e",
+    "product": "66465294c5a9d0f3b4e71a25",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "Materiali biroz shubhali.",
+    "rating": 3
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c05f",
+    "product": "66465294c5a9d0f3b4e71a2b",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Bolalar plansheti yaxshi ishlayapti, o'yinlari qiziqarli.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c060",
+    "product": "66465294c5a9d0f3b4e71a2b",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Batareyasi tez tugayapti.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c061",
+    "product": "66465294c5a9d0f3b4e71a2e",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Bluzka matosi yengil, yozgi issiq kunlarga mos.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c062",
+    "product": "66465294c5a9d0f3b4e71a2e",
+    "user": "68218c198a04374f515ceb03",
+    "text": "O'lchami kutilganchalik mos kelmadi.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c063",
+    "product": "66465294c5a9d0f3b4e71a30",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Mokasinlar juda qulay, yozda oyoq terlamaydi.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c064",
+    "product": "66465294c5a9d0f3b4e71a30",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "Rang biroz boshqacharoq edi.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c065",
+    "product": "66465294c5a9d0f3b4e71a33",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Stullar zamonaviy ko'rinadi, yig'ish oson bo'ldi.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c066",
+    "product": "66465294c5a9d0f3b4e71a33",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Narxi qimmat.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c067",
+    "product": "66465294c5a9d0f3b4e71a36",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Mexanik klaviatura yozish uchun juda qulay.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c068",
+    "product": "66465294c5a9d0f3b4e71a36",
+    "user": "68218c198a04374f515ceb03",
+    "text": "Ovozi biroz baland.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c069",
+    "product": "66465294c5a9d0f3b4e71a38",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Qishki jinsi shim juda issiq ekan, sovuq o'tkazmayapti.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c06a",
+    "product": "66465294c5a9d0f3b4e71a38",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "Dizayni unchalik zamonaviy emas.",
+    "rating": 4
+  },
+    {
+    "_id": "66465411e3d7f1c0a2b9c06b",
+    "product": "66465294c5a9d0f3b4e71a3f",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Gilam katta va yumshoq, mehmonxonamga mos tushdi.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c06c",
+    "product": "66465294c5a9d0f3b4e71a3f",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Tozalash biroz qiyin.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c06d",
+    "product": "66465294c5a9d0f3b4e71a41",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Dush kabinasi ixcham, kichik vannaxona uchun ideal.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c06e",
+    "product": "66465294c5a9d0f3b4e71a41",
+    "user": "68218c198a04374f515ceb03",
+    "text": "Yig'ish biroz vaqt oldi.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c06f",
+    "product": "66465294c5a9d0f3b4e71a47",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Charm botinka bahorga juda mos ekan, qulay.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c070",
+    "product": "66465294c5a9d0f3b4e71a47",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "Rasmda rangi ochroq edi.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c071",
+    "product": "66465294c5a9d0f3b4e71a4b",
+    "user": "6811eea61e907901f2d09863",
+    "text": "KameraPhone smartfoni rasmlarni super olyapti, kutganimdan ham yaxshi.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c072",
+    "product": "66465294c5a9d0f3b4e71a4b",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "Narxi balandroq ekan.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c073",
+    "product": "66465294c5a9d0f3b4e71a4d",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Yozgi shoriklar yengil va qulay, sportga mos.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c074",
+    "product": "66465294c5a9d0f3b4e71a4d",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Cho'ntagi biroz tor.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c075",
+    "product": "66465294c5a9d0f3b4e71a4f",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Bolalar krossovkasi yonadi, bolam juda xursand bo'ldi.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c076",
+    "product": "66465294c5a9d0f3b4e71a4f",
+    "user": "68218c198a04374f515ceb03",
+    "text": "Batareyasi tez tugayapti.",
+    "rating": 3
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c077",
+    "product": "66465294c5a9d0f3b4e71a52",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Simsiz sichqoncha tez ulandi, ishlashi silliq.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c078",
+    "product": "66465294c5a9d0f3b4e71a52",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "Batareyani tez sarflayapti.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c079",
+    "product": "66465294c5a9d0f3b4e71a55",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Uzoq ko'ylak kechki tadbirga juda mos tushdi, matosi sifatli.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c07a",
+    "product": "66465294c5a9d0f3b4e71a55",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Rangi rasmdagidan biroz farq qildi.",
+    "rating": 4
+  },
+    {
+    "_id": "66465411e3d7f1c0a2b9c07b",
+    "product": "66465294c5a9d0f3b4e71a58",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Zargarlik buyumlari to'plami nafis, sovg'a uchun oldim.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c07c",
+    "product": "66465294c5a9d0f3b4e71a58",
+    "user": "68218c198a04374f515ceb03",
+    "text": "Birlashtirilgan metall qismlari tez xiralashadi.",
+    "rating": 3
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c07d",
+    "product": "66465294c5a9d0f3b4e71a5b",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Kitob javoni uyimga juda mos tushdi, yig'ish oson ekan.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c07e",
+    "product": "66465294c5a9d0f3b4e71a5b",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "Yog'och sifati kutilganchalik yuqori emas.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c07f",
+    "product": "66465294c5a9d0f3b4e71a5e",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Budjet smartfon uchun ekrani katta, ishlatish qulay.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c080",
+    "product": "66465294c5a9d0f3b4e71a5e",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Tez qizib ketadi.",
+    "rating": 3
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c081",
+    "product": "66465294c5a9d0f3b4e71a63",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Maktab poyabzali sifatli ekan, bolamga qulay.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c082",
+    "product": "66465294c5a9d0f3b4e71a63",
+    "user": "68218c198a04374f515ceb03",
+    "text": "Tez kir bo'lar ekan.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c083",
+    "product": "66465294c5a9d0f3b4e71a66",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Sport soati ko'p funksiyali, mashg'ulotlarda yordam beryapti.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c084",
+    "product": "66465294c5a9d0f3b4e71a66",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "Batareyasi kutilganchalik uzoqqa yetmayapti.",
+    "rating": 4
+  },
+    {
+    "_id": "66465411e3d7f1c0a2b9c085",
+    "product": "66465294c5a9d0f3b4e71a69",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Muzlatgich juda keng, katta oila uchun ideal.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c086",
+    "product": "66465294c5a9d0f3b4e71a69",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Energiya sarfi biroz yuqori.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c087",
+    "product": "66465294c5a9d0f3b4e71a6c",
+    "user": "6811eea61e907901f2d09863",
+    "text": "SSD disk kompyuter tezligini ancha oshirdi. Juda xursandman.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c088",
+    "product": "66465294c5a9d0f3b4e71a6c",
+    "user": "68218c198a04374f515ceb03",
+    "text": "Hajmi kutilganchalik emas ekan.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c089",
+    "product": "66465294c5a9d0f3b4e71a6f",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Bolalar etigi qishda issiq, materiali yaxshi.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c08a",
+    "product": "66465294c5a9d0f3b4e71a6f",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "Ichki mo'ynasi tez yeyiladi.",
+    "rating": 3
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c08b",
+    "product": "66465294c5a9d0f3b4e71a71",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Peshkarli soat nafis ko'rinadi, kiyimlarimga mos.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c08c",
+    "product": "66465294c5a9d0f3b4e71a71",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Kamar tez eskiradigan ko'rinyapti.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c08d",
+    "product": "66465294c5a9d0f3b4e71a74",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Krovat mustahkam, yig'ish oson bo'ldi.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c08e",
+    "product": "66465294c5a9d0f3b4e71a74",
+    "user": "68218c198a04374f515ceb03",
+    "text": "Narxi biroz baland.",
+    "rating": 4
+  },
+    {
+    "_id": "66465411e3d7f1c0a2b9c08f",
+    "product": "66465294c5a9d0f3b4e71a4c",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Aqlli kolonka ovozi yaxshi, musiqa tinglash qulay.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c090",
+    "product": "66465294c5a9d0f3b4e71a4c",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "Ovozli yordamchi ba'zida tushunmayapti.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c091",
+    "product": "66465294c5a9d0f3b4e71a54",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Vetrovka yengil, shamoldan yaxshi himoya qilyapti.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c092",
+    "product": "66465294c5a9d0f3b4e71a54",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Yomg'irga chidamli emas.",
+    "rating": 3
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c093",
+    "product": "66465294c5a9d0f3b4e71a57",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Krossovkalar qulay, kundalik kiyishga mos.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c094",
+    "product": "66465294c5a9d0f3b4e71a57",
+    "user": "68218c198a04374f515ceb03",
+    "text": "Tez kir bo'lar ekan.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c095",
+    "product": "66465294c5a9d0f3b4e71a5a",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Jurnal stoli kichik xona uchun ideal, dizayni zamonaviy.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c096",
+    "product": "66465294c5a9d0f3b4e71a5a",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "Materiali kutilganchalik sifatli emas.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c097",
+    "product": "66465294c5a9d0f3b4e71a60",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Proyektor uyda kino ko'rish uchun ajoyib.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c098",
+    "product": "66465294c5a9d0f3b4e71a60",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Tasvir sifati kutilganchalik emas.",
+    "rating": 3
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c099",
+    "product": "66465294c5a9d0f3b4e71a62",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Ayollar kombinezoni yozga mos, yengil.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c09a",
+    "product": "66465294c5a9d0f3b4e71a62",
+    "user": "68218c198a04374f515ceb03",
+    "text": "O'lchami to'g'ri kelmadi.",
+    "rating": 4
+  },
+    {
+    "_id": "66465411e3d7f1c0a2b9c09b",
+    "product": "66465294c5a9d0f3b4e71a65",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Panama shlyapa quyoshdan yaxshi himoya qilyapti.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c09c",
+    "product": "66465294c5a9d0f3b4e71a65",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "Shamol bo'lsa uchib ketadi.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c09d",
+    "product": "66465294c5a9d0f3b4e71a68",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Divan burchakli, joyimga mos tushdi.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c09e",
+    "product": "66465294c5a9d0f3b4e71a68",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Matosi tez kirlanadigan ko'rinyapti.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c09f",
+    "product": "66465294c5a9d0f3b4e71a6b",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Monitor ish uchun yaxshi, ko'zni charchatmaydi.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0a0",
+    "product": "66465294c5a9d0f3b4e71a6b",
+    "user": "68218c198a04374f515ceb03",
+    "text": "Rangi biroz sarg'ishroq.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0a1",
+    "product": "66465294c5a9d0f3b4e71a6e",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Midi yubka elegant ko'rinadi, material yaxshi.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0a2",
+    "product": "66465294c5a9d0f3b4e71a6e",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "O'lchami kattaroq chiqdi.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0a3",
+    "product": "66465294c5a9d0f3b4e71a72",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Ko'zoynak g'ilofi mustahkam, ko'zoynak sinmaydi.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0a4",
+    "product": "66465294c5a9d0f3b4e71a72",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Charm asliy emas ekan.",
+    "rating": 3
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0a5",
+    "product": "66465294c5a9d0f3b4e71a76",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Smartfon katta ekranli, ishlatish qulay.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0a6",
+    "product": "66465294c5a9d0f3b4e71a76",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "Batareyasi kutilganchalik emas.",
+    "rating": 3
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0a7",
+    "product": "66465294c5a9d0f3b4e71a77",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Monitor ranglari aniq, dizayn ishlari uchun ideal.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0a8",
+    "product": "66465294c5a9d0f3b4e71a77",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Narxi biroz baland.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0a9",
+    "product": "66465294c5a9d0f3b4e71a78",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Sviter issiq, qishda sovqotmaysiz.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0aa",
+    "product": "66465294c5a9d0f3b4e71a78",
+    "user": "68218c198a04374f515ceb03",
+    "text": "Matosi tez tuklanadigan ko'rinyapti.",
+    "rating": 3
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0ab",
+    "product": "66465294c5a9d0f3b4e71a7a",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Bolalar sport poyabzali mustahkam, o'ynashga mos.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0ac",
+    "product": "66465294c5a9d0f3b4e71a7a",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "O'lchami kichikroq keldi.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0ad",
+    "product": "66465294c5a9d0f3b4e71a7f",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Kostyum rangi juda yoqdi, rasmiy uchrashuvlarga mos.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0ae",
+    "product": "66465294c5a9d0f3b4e71a7f",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Matosi yengil ekan, qishga to'g'ri kelmaydi.",
+    "rating": 4
+  },
+    {
+    "_id": "66465411e3d7f1c0a2b9c0af",
+    "product": "66465294c5a9d0f3b4e71a83",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Shaharda yurish uchun ryukzak juda qulay, dizayni ham zamonaviy.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0b0",
+    "product": "66465294c5a9d0f3b4e71a83",
+    "user": "68218c198a04374f515ceb03",
+    "text": "Hajmi kutilganchalik emas ekan.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0b1",
+    "product": "66465294c5a9d0f3b4e71a85",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Balandligi sozlanuvchi stol juda qulay, ish samaradorligim oshdi.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0b2",
+    "product": "66465294c5a9d0f3b4e71a85",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "Narxi qimmatroq.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0b3",
+    "product": "66465294c5a9d0f3b4e71a88",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Bug'li dazmol kiyimlarni tez dazmollayapti, kuchli.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0b4",
+    "product": "66465294c5a9d0f3b4e71a88",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Suv idishi kichik.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0b5",
+    "product": "66465294c5a9d0f3b4e71a8c",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Jinsi ko'ylak kundalik kiyish uchun qulay.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0b6",
+    "product": "66465294c5a9d0f3b4e71a8c",
+    "user": "68218c198a04374f515ceb03",
+    "text": "Matosi biroz qalin ekan.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0b7",
+    "product": "66465294c5a9d0f3b4e71a8f",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Sport tuflisi yengil va qulay, mashg'ulotlarga mos.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0b8",
+    "product": "66465294c5a9d0f3b4e71a8f",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "Dizayni unchalik yoqmadi.",
+    "rating": 4
+  },
+    {
+    "_id": "66465411e3d7f1c0a2b9c0b9",
+    "product": "66465294c5a9d0f3b4e71a92",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Kompyuter stoli keng, ishlashga qulay.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0ba",
+    "product": "66465294c5a9d0f3b4e71a92",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Yig'ish biroz vaqt oldi.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0bb",
+    "product": "66465294c5a9d0f3b4e71a95",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Kir yuvish mashinasi tinch ishlaydi.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0bc",
+    "product": "66465294c5a9d0f3b4e71a95",
+    "user": "68218c198a04374f515ceb03",
+    "text": "Yuvish sifati kutilganchalik emas.",
+    "rating": 3
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0bd",
+    "product": "66465294c5a9d0f3b4e71a98",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Planshet o'yinlar uchun ajoyib, tez ishlaydi.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0be",
+    "product": "66465294c5a9d0f3b4e71a98",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "Batareyasi tez tugayapti.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0bf",
+    "product": "66465294c5a9d0f3b4e71a9a",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Yozgi shoriklar yengil, sportga mos.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0c0",
+    "product": "66465294c5a9d0f3b4e71a9a",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Rangi biroz boshqacha keldi.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0c1",
+    "product": "66465294c5a9d0f3b4e71a9c",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Kedalar charm, kundalik kiyish uchun qulay.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0c2",
+    "product": "66465294c5a9d0f3b4e71a9c",
+    "user": "68218c198a04374f515ceb03",
+    "text": "Tez kir bo'lar ekan.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0c3",
+    "product": "66465294c5a9d0f3b4e71aa0",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Gilamcha yotoqxonamga mos tushdi, yumshoq.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0c4",
+    "product": "66465294c5a9d0f3b4e71aa0",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "O'lchami biroz kichikroq.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0c5",
+    "product": "66465294c5a9d0f3b4e71aa3",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Tish pastasi tishimni oqartirdi, samarali ekan.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0c6",
+    "product": "66465294c5a9d0f3b4e71aa3",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Ta'mi unchalik yoqmadi.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0c7",
+    "product": "66465294c5a9d0f3b4e71aa6",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Charm krossovka bolamga qulay, maktabga kiyib ketyapti.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0c8",
+    "product": "66465294c5a9d0f3b4e71aa6",
+    "user": "68218c198a04374f515ceb03",
+    "text": "Tez tirnaladigan ko'rinyapti.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0c9",
+    "product": "66465294c5a9d0f3b4e71aa9",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Sport belbog'i mashg'ulotlarda qulay.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0ca",
+    "product": "66465294c5a9d0f3b4e71aa9",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "Materiali tez eskiradigan ko'rinyapti.",
+    "rating": 3
+  },
+    {
+    "_id": "66465411e3d7f1c0a2b9c0cb",
+    "product": "66465294c5a9d0f3b4e71a7b",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Yozgi mokasinlar juda yengil, issiq kunlarga mos.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0cc",
+    "product": "66465294c5a9d0f3b4e71a7b",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Rang berishi bor ekan.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0cd",
+    "product": "66465294c5a9d0f3b4e71a82",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Casual poyabzal qulay, kun bo'yi kiyishga mos.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0ce",
+    "product": "66465294c5a9d0f3b4e71a82",
+    "user": "68218c198a04374f515ceb03",
+    "text": "Tez kir bo'lar ekan.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0cf",
+    "product": "66465294c5a9d0f3b4e71a86",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Tumba yotoqxonamga mos tushdi, yig'ish oson.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0d0",
+    "product": "66465294c5a9d0f3b4e71a86",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "Yog'och sifati kutilganchalik emas.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0d1",
+    "product": "66465294c5a9d0f3b4e71a8a",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Budget smartfon uchun funksiyalari yaxshi.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0d2",
+    "product": "66465294c5a9d0f3b4e71a8a",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Kamerasi unchalik yaxshi emas.",
+    "rating": 3
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0d3",
+    "product": "66465294c5a9d0f3b4e71a8f",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Sport tuflisi yengil, mashg'ulotlarga mos.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0d4",
+    "product": "66465294c5a9d0f3b4e71a8f",
+    "user": "68218c198a04374f515ceb03",
+    "text": "Dizayni unchalik yoqmadi.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0d5",
+    "product": "66465294c5a9d0f3b4e71a92",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Kompyuter stoli keng, ishlashga qulay.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0d6",
+    "product": "66465294c5a9d0f3b4e71a92",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "Yig'ish biroz vaqt oldi.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0d7",
+    "product": "66465294c5a9d0f3b4e71a96",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Avtomobil changyutgichi yaxshi tortadi, salonga mos.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0d8",
+    "product": "66465294c5a9d0f3b4e71a96",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Simi qisqaroq ekan.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0d9",
+    "product": "66465294c5a9d0f3b4e71aad",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Qishki paypoqlar juda issiq va yumshoq, uyda kiyishga qulay.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0da",
+    "product": "66465294c5a9d0f3b4e71aad",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "Tez teshilib qolyapti.",
+    "rating": 3
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0db",
+    "product": "66465294c5a9d0f3b4e71aae",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Bolalar klassik poyabzali bayram uchun ajoyib.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0dc",
+    "product": "66465294c5a9d0f3b4e71aae",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Charm asliy emas.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0dd",
+    "product": "66465294c5a9d0f3b4e71ab2",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Aqlli soat barcha funksiyalarni bajaryapti, narxiga arziydi.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0de",
+    "product": "66465294c5a9d0f3b4e71ab2",
+    "user": "68218c198a04374f515ceb03",
+    "text": "Batareyasi tez tugayapti.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0df",
+    "product": "66465294c5a9d0f3b4e71ab6",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Sport-formal poyabzal kiyimlarimga juda mos tushdi.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0e0",
+    "product": "66465294c5a9d0f3b4e71ab6",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "Bir oz qattiq ekan.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0e1",
+    "product": "66465294c5a9d0f3b4e71aba",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Ochiq kitob javoni zamonaviy ko'rinadi, kitoblarimni chiroyli joylashtirdim.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0e2",
+    "product": "66465294c5a9d0f3b4e71aba",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Yig'ishga biroz vaqt ketdi.",
+    "rating": 4
+  },
+    {
+    "_id": "66465411e3d7f1c0a2b9c0e3",
+    "product": "66465294c5a9d0f3b4e71abd",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Ishchi stantsiya noutbuk tez ishlayapti, dasturlashga mos.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0e4",
+    "product": "66465294c5a9d0f3b4e71abd",
+    "user": "68218c198a04374f515ceb03",
+    "text": "Qizib ketishi bor ekan.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0e5",
+    "product": "66465294c5a9d0f3b4e71ac2",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Bolalar etigi charm, kuzda kiyishga yaxshi.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0e6",
+    "product": "66465294c5a9d0f3b4e71ac2",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "Bir oz qattiq ekan.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0e7",
+    "product": "66465294c5a9d0f3b4e71ac5",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Ingichka galstuk kiyimlarimga zamonaviylik qo'shdi.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0e8",
+    "product": "66465294c5a9d0f3b4e71ac5",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Materiali ipak emas.",
+    "rating": 3
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0e9",
+    "product": "66465294c5a9d0f3b4e71ac7",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Katta gilam mehmonxonamga juda mos tushdi, rangi chiroyli.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0ea",
+    "product": "66465294c5a9d0f3b4e71ac7",
+    "user": "68218c198a04374f515ceb03",
+    "text": "Narxi biroz yuqori.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0eb",
+    "product": "66465294c5a9d0f3b4e71acb",
+    "user": "6811eea61e907901f2d09863",
+    "text": "SSD disk kompyuter tezligini ancha oshirdi, juda sezilarli.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0ec",
+    "product": "66465294c5a9d0f3b4e71acb",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "O'rnatish biroz qiyin bo'ldi.",
+    "rating": 4
+  },
+    {
+    "_id": "66465411e3d7f1c0a2b9c0ed",
+    "product": "66465294c5a9d0f3b4e71acc",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Jinsi kostyum zamonaviy ko'rinadi, yigitimga sovg'a qildim.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0ee",
+    "product": "66465294c5a9d0f3b4e71acc",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Narxi biroz qimmat.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0ef",
+    "product": "66465294c5a9d0f3b4e71ad0",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Sport kepkasi boshimga yaxshi o'tirdi.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0f0",
+    "product": "66465294c5a9d0f3b4e71ad0",
+    "user": "68218c198a04374f515ceb03",
+    "text": "Materiali tez kirlanadi.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0f1",
+    "product": "66465294c5a9d0f3b4e71ad2",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Yig'iladigan stol piknik uchun juda qulay.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0f2",
+    "product": "66465294c5a9d0f3b4e71ad2",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "Bir oz og'irroq.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0f3",
+    "product": "66465294c5a9d0f3b4e71ad5",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Smartfon Ultra budjet uchun yaxshi ishlaydi, aloqa uchun yetarli.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0f4",
+    "product": "66465294c5a9d0f3b4e71ad5",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Kamerasi juda oddiy.",
+    "rating": 3
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0f5",
+    "product": "66465294c5a9d0f3b4e71ad8",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Bolalar etigi qishda issiq, oyog'ini yaxshi saqladi.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0f6",
+    "product": "66465294c5a9d0f3b4e71ad8",
+    "user": "68218c198a04374f515ceb03",
+    "text": "Tez yeyiladigan ko'rinyapti.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0f7",
+    "product": "66465294c5a9d0f3b4e71adb",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Ayollar shlyapasi yozda quyoshdan yaxshi himoya qilyapti.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0f8",
+    "product": "66465294c5a9d0f3b4e71adb",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "Bir oz katta chiqdi.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0f9",
+    "product": "66465294c5a9d0f3b4e71ade",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Multivarka ko'p funksiyali, ovqat tayyorlash osonlashdi.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0fa",
+    "product": "66465294c5a9d0f3b4e71ade",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Dasturlarini tushunishga biroz vaqt ketdi.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0fb",
+    "product": "66465294c5a9d0f3b4e71a48",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Kuzgi qo'lqoplar yengil, qulay.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0fc",
+    "product": "66465294c5a9d0f3b4e71a48",
+    "user": "68218c198a04374f515ceb03",
+    "text": "Sovuq o'tkazyapti.",
+    "rating": 3
+  },
+    {
+    "_id": "66465411e3d7f1c0a2b9c0fd",
+    "product": "66465294c5a9d0f3b4e71a94",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Metall krovat zamonaviy ko'rinadi, mustahkam.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0fe",
+    "product": "66465294c5a9d0f3b4e71a94",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "Yig'ish biroz qiyin bo'ldi.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c0ff",
+    "product": "66465294c5a9d0f3b4e71a97",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Smartfon ultra budget narxiga juda mos ishlayapti.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c100",
+    "product": "66465294c5a9d0f3b4e71a97",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Tez qizib ketadi.",
+    "rating": 3
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c101",
+    "product": "66465294c5a9d0f3b4e71a9e",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Raqamli soat sportga ham, kundalikka ham mos.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c102",
+    "product": "66465294c5a9d0f3b4e71a9e",
+    "user": "68218c198a04374f515ceb03",
+    "text": "Displeyda tirnalish bor ekan.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c103",
+    "product": "66465294c5a9d0f3b4e71aa1",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Mini pech kichik pishiriqlar uchun ideal, tez qiziyapti.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c104",
+    "product": "66465294c5a9d0f3b4e71aa1",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "Hajmi juda kichik.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c105",
+    "product": "66465294c5a9d0f3b4e71aa4",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Kapshonli tolka qulay ekan, materiali yaxshi.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c106",
+    "product": "66465294c5a9d0f3b4e71aa4",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Rasmda rang ochroq edi.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c107",
+    "product": "66465294c5a9d0f3b4e71aa7",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Sport oyoq kiyimi yengil va qulay.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c108",
+    "product": "66465294c5a9d0f3b4e71aa7",
+    "user": "68218c198a04374f515ceb03",
+    "text": "Tez kir bo'lar ekan.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c109",
+    "product": "66465294c5a9d0f3b4e71aaa",
+    "user": "6811eea61e907901f2d09863",
+    "text": "Gaming smartfon bomba! O'yinlar uchmayapti.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c10a",
+    "product": "66465294c5a9d0f3b4e71aaa",
+    "user": "6811f119a876c5f1f22b6cdf",
+    "text": "Batareyasi tez tugab qolyapti, zaryadlagichni doim olib yurishga majburman.",
+    "rating": 4
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c10b",
+    "product": "66465294c5a9d0f3b4e71aae",
+    "user": "6814691e6ff56b711b57d25e",
+    "text": "Bolalar klassik poyabzali bayramga mos.",
+    "rating": 5
+  },
+  {
+    "_id": "66465411e3d7f1c0a2b9c10c",
+    "product": "66465294c5a9d0f3b4e71aae",
+    "user": "68146e1a283b1e9033dbd951",
+    "text": "Charm asliy emasga o'xshaydi.",
+    "rating": 3
+  }
+]
